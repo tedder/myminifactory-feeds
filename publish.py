@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# myminifactory.com newsfeed. (c) ted timmons 2018, MIT license.
+
 import boto3
 import configparser
 import json
